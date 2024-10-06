@@ -17,9 +17,9 @@ This program automatically installs an extension for Spicetify (you need Spiceti
 - You can access your profile and download your favorite songs, all your playlists, etc., with a single click.
 - It can run automatically on startup.
 - You can select the providers.
-- Many more configurable options.
 - You can listen to songs locally.
 - Choose where to save all downloaded content.
+- Many more configurable options.
 
 ## Dependencies
 The only requirement is Spicetify; you can download it from [here](https://spicetify.app).
