@@ -26,7 +26,7 @@ This program automatically installs an extension for Spicetify (you need Spiceti
 The only requirement is Spicetify; you can download it from [here](https://spicetify.app).
 
 ## Credits
-Completely programmed by me, it works thanks to [Spotdl](https://github.com/spotDL/spotify-downloader).
+Completely programmed by me, it works thanks to [spotDL](https://github.com/spotDL/spotify-downloader).
 
 ## Images
 ![image](https://i.imgur.com/bmydzvH.png)
