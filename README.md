@@ -2,6 +2,7 @@
 
   <a href="">![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</a>
   <a href="">![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)</a>
+  <a href="">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)</a>
   <a href="">![Version](https://img.shields.io/github/v/release/AndySharp44s/Cristify-Downloader?style=for-the-badge)</a>
 
 </div>
